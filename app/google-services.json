@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "22934078279",
+    "firebase_url": "https://maplocator-b5bf2.firebaseio.com",
+    "project_id": "maplocator-b5bf2",
+    "storage_bucket": "maplocator-b5bf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22934078279:android:914fb04267b318e5efc262",
+        "android_client_info": {
+          "package_name": "com.example.maplocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22934078279-46sp7rc6g19fr8gn5jm7k66guernjk03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClroirYSwHKkYnWEjTRrcPTg3iDWAoYQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22934078279-46sp7rc6g19fr8gn5jm7k66guernjk03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
